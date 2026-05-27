@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configsecrypt",
+        "uuid": 25207728,
+        "checksum": "ky0wn9"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
